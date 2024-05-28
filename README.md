@@ -9,6 +9,7 @@ Bienvenido a **CodeCraft**, un compendio de herramientas y scripts nacido de la 
 - **WebDriverFactory**: Un herrero digital que forja instancias de WebDriver, armándote con navegadores listos para la batalla en el vasto mundo de la web, soportando actualmente a los valientes Firefox en su forma más sigilosa: el modo headless.
 - **BypassRecaptchaV2Selenium**: Una llave maestra capaz de sortear los guardianes CAPTCHA v2, permitiéndote acceder a los tesoros escondidos tras sus puertas con la agilidad de un acróbata.
 - **ReCaptchaSolver**: Un sabio conjurador que, a través de hechizos HTTP, resuelve los enigmas de ReCaptcha v3, obteniendo los preciados tokens de respuesta sin despeinarse.
+- **RSACrypt**: Un maestro encriptador que permite cifrar y descifrar datos usando claves RSA, garantizando que tus mensajes se mantengan seguros y privados.
 
 ## Prerrequisitos
 
@@ -17,13 +18,14 @@ Antes de que puedas emplear estas herramientas en tu propia búsqueda, asegúrat
 - Python 3.6+
 - Selenium WebDriver
 - Requests
+- PyCryptodome (para RSACrypt)
 
 ## Instalación
 
 Prepara tu taller con todo lo necesario instalando las dependencias así:
 
 ```bash
-pip install selenium requests
+pip install selenium requests pycryptodome
 ```
 
 ## Futuro
