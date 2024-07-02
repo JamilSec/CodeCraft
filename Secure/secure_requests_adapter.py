@@ -63,6 +63,8 @@ class SSLAdapter(HTTPAdapter):
         ]))
         # Asegura que solo se utilicen TLS 1.2 o versiones superiores
         context.minimum_version = ssl.TLSVersion.TLSv1_2
+        context.maximum_version = ssl.TLSVersion.TLSv1_3
+        context.check_hostname = True
 
         if self.debug:
             print("Información de Depuración SSL/TLS")
