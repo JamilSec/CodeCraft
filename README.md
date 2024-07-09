@@ -10,6 +10,7 @@ Bienvenido a **CodeCraft**, un compendio de herramientas y scripts nacido de la 
 - **BypassRecaptchaV2Selenium**: Una llave maestra capaz de sortear los guardianes CAPTCHA v2, permitiéndote acceder a los tesoros escondidos tras sus puertas con la agilidad de un acróbata.
 - **ReCaptchaSolver**: Un sabio conjurador que, a través de hechizos HTTP, resuelve los enigmas de ReCaptcha v3, obteniendo los preciados tokens de respuesta sin despeinarse.
 - **RSACrypt**: Un maestro encriptador que permite cifrar y descifrar datos usando claves RSA, garantizando que tus mensajes se mantengan seguros y privados.
+- **PackageInstaller**: Un administrador de dependencias que asegura que todas las librerías necesarias para tu proyecto estén instaladas y actualizadas, ahorrándote tiempo y esfuerzo.
 
 ## Prerrequisitos
 
